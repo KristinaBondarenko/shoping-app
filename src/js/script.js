@@ -4,7 +4,7 @@ import { SELECTORS } from './selectors.js'
 init()
 
 function init() {
-  // подгрузка данных при загрузке страницы
+  // подгрузка данных при загрузке страницы.
   window.addEventListener('DOMContentLoaded', () => {
     getProducts()
     submitForm()

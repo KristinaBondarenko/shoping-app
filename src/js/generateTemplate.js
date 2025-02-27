@@ -1,6 +1,6 @@
 import { SELECTORS } from './selectors.js'
 
-// Функция создает html на основе данных
+// Функция создает html на основе данных.
 export function generateTemplate(data) {
   let html = ''
 

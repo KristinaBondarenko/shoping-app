@@ -6,7 +6,7 @@ export async function getProducts() {
     const response = await fetch('http://localhost:5000/products')
     const data = await response.json()
 
-    // Формируем нужный html для карточек
+    // Формируем нужный html для карточек.
     generateTemplate(data)
   } catch (error) {
     console.error('Ошибка загрузки данных:', error)
