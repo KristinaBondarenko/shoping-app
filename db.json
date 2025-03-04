@@ -27,7 +27,7 @@
     {
       "id": "4",
       "name": "Bed 2",
-      "category": "Bed 2",
+      "category": "Bed",
       "rating": "3.0",
       "price": "102.10",
       "imgSrc": "/images/help-image-4.jpg"
@@ -35,10 +35,34 @@
     {
       "name": "Тестовый товар",
       "category": "Тестовая категория",
-      "rating": "100",
+      "rating": "1.9",
       "price": "300",
       "imgSrc": "https://s1.1zoom.ru/big7/285/Christmas_Holidays_Spruce_Balls_Snowmen_555646_2560x1706.jpg",
       "id": "ySvhgzJ"
+    },
+    {
+      "name": "Table-A",
+      "category": "Table",
+      "rating": "1.2",
+      "price": "16",
+      "imgSrc": "https://vsestulya.ru/image/catalog/STATI/office-desk.png",
+      "id": "wSNvlGn"
+    },
+    {
+      "name": "Table-C",
+      "category": "Table",
+      "rating": "3",
+      "price": "21",
+      "imgSrc": "https://dobriy-office.ru/uploads/images/advices/resizeimages/job-g38cf2b32a_1920.jpg",
+      "id": "S1ird2R"
+    },
+    {
+      "name": "Bed 3",
+      "category": "Bed",
+      "rating": "4.9",
+      "price": "17",
+      "imgSrc": "https://www.prohandmade.ru/wp-content/uploads/2011/02/888375_b6PqitlS_c1.jpg",
+      "id": "h0HcAPJ"
     }
   ]
 }

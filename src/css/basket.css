@@ -76,3 +76,10 @@
   width: 14px;
   height: 14px;
 }
+
+.basket-item__img {
+  width: 80px; /* Фиксированная ширина */
+  height: 80px; /* Фиксированная высота */
+  object-fit: cover; /* Обрезает изображение, сохраняя пропорции */
+  border-radius: 8px; /* Закругление углов */
+}

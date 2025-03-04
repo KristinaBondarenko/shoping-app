@@ -282,6 +282,11 @@ main {
   animation: skeleton 1s infinite reverse;
 }
 
+:root {
+  --button-bg-color: #007bff; /* Синий, можно заменить на нужный цвет */
+}
+
+
 @keyframes skeleton {
   0% {
     background-position: -100% 0;
@@ -331,3 +336,6 @@ main {
 .p-48 {
   padding: 48px 0;
 }
+
+
+
